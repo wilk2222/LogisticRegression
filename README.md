@@ -1,9 +1,9 @@
-# LogisticRegression
+# LogisticRegression 
 ---
 Implementation of LogisticRegression 📈 with regularisation parameter λ.
----
+
 Basic implementation of **Binary Logistic Regression** from scratch using *Python* and *numpy*. The binary logistic regression model can be thought of as a simple neural network with just one output node with a sigmoid activation function and no hidden layers.
----
+
 ##**Mathematical equations used in the code**
 
 ### **Linear Combination (weighted sum)**
@@ -40,8 +40,7 @@ The weights are udpated using gradient descent. The learning rate is denoted by 
 
 $$\theta = \theta - \alpha \cdot \text{gradient}$$
 
-
-
+---
 
 
 
